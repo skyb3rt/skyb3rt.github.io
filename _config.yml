@@ -1,10 +1,7 @@
 title: TK Vesterålen
-description: Jekyll microtheme that looks like JSON
 baseurl: /
 url: https://tkVesteraalen.no
 
-#theme: hacked-jekyll
-#remote_theme: hydecorp/hydejack@v9
 remote_theme: piazzai/hacked-jekyll
 plugins:
 - jekyll-remote-theme

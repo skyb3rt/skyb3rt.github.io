@@ -1,19 +1,12 @@
 - key: nettside
-  value: TK Vesterålen
+  value: TK Vesterålen                                            
 - key: beskrivelse
   value:
-    - Hei og velkommen til
-    - TK Vesteraalen 
-    - sin nettside!
-    - Vi er glade for
-    - nå ha deg her.
-    - Denne siden er for
-    - tiden under utvikling,
-    - men vi jobber hardt
-    - for å bringe deg 
-    - de beste tjenestene.
-    -  Vennligst sjekk tilbake 
-    - snart for oppdateringer og nyheter.
+    - Hei og velkommen til TK Vesteraalen sin nettside!
+    - Vi er glade forå ha deg her.
+    - Denne siden er for tiden under utvikling,
+    - men vi jobber hardt for å bringe deg de beste tjenestene.
+    -  Vennligst sjekk tilbake snart for oppdateringer og nyheter.
   typed: true
 #- key: Address
 #  value:

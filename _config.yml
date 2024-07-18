@@ -3,7 +3,8 @@ description: Jekyll microtheme that looks like JSON
 baseurl: /hacked-jekyll
 url: https://tkVesteraalen.no
 
-theme: hacked-jekyll
+#theme: hacked-jekyll
+remote_theme: hydecorp/hydejack@v9
 
 exclude:
   - LICENSE

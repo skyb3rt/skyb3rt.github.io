@@ -1,6 +1,6 @@
 title: TK Vesterålen
 description: Jekyll microtheme that looks like JSON
-baseurl: /
+baseurl: /docs
 url: https://tkVesteraalen.no
 
 #theme: hacked-jekyll

@@ -5,7 +5,9 @@ url: https://tkVesteraalen.no
 
 #theme: hacked-jekyll
 #remote_theme: hydecorp/hydejack@v9
-remote_theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
+plugins:
+- jekyll-remote-theme
 
 exclude:
   - LICENSE
